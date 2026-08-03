@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching Experience | Tianyu Qiu</title><link>https://tianyuq.github.io/teaching/</link><atom:link href="https://tianyuq.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teaching Experience</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate><image><url>https://tianyuq.github.io/media/icon_hu20bc2444456ffdd75d5b63d8d49bf9af_82240_512x512_fill_lanczos_center_3.png</url><title>Teaching Experience</title><link>https://tianyuq.github.io/teaching/</link></image><item><title>Scientific Computing</title><link>https://tianyuq.github.io/teaching/scientific-computing/</link><pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/scientific-computing/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as the teaching assistant of COE322 Scientific Computing lectured by Prof. Victor Eijkhout and Prof. Susan Lindsey in 2023 Fall at UT Austin. Check &lt;a href="https://github.com/TACC/coe322fall2023" target="_blank" rel="noopener">Course Contents&lt;/a> for more details.&lt;/p>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Scientific Writing (Graduate-level)</title><link>https://tianyuq.github.io/teaching/scientific-writing/</link><pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/scientific-writing/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as a teaching assistant for Scientific Writing lectured by Prof. Han Zhang in 2021 Fall at Shanghai Jiao Tong University.&lt;/p>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Science and Technology Innovation</title><link>https://tianyuq.github.io/teaching/science-and-technology-innovation/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/science-and-technology-innovation/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as the teaching assistant of Science and Technology Innovation lectured by Prof. Jingchuan Wang in 2021 Spring at Shanghai Jiao Tong University.&lt;/p>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Discrete Maths</title><link>https://tianyuq.github.io/teaching/discrete-maths/</link><pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/discrete-maths/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as a teaching assistant for VE203 Discrete Maths lectured by Prof. Zach Mckenzie in 2019 Summer and Prof. Heidi Anderson in 2020 Summer at Shanghai Jiao Tong University, respectively. I was nominated as an outstanding teaching assistant for the course. Check the following links for recitation notes for the course.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>2019 Summer&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week1%20%28Natural%20Numbers%29.pdf" target="_blank" rel="noopener">RC Week1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week2%20%28Logics%2BSets%29.pdf" target="_blank" rel="noopener">RC Week2&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week3%20%28Relations%2BOrders%2BLattices%2BFunctions%29.pdf" target="_blank" rel="noopener">RC Week3&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week4%20%28Functions%29.pdf" target="_blank" rel="noopener">RC Week4&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week5%20%28Functions%29.pdf" target="_blank" rel="noopener">RC Week5&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week6%20%28Functions%2BCounting%29.pdf" target="_blank" rel="noopener">RC Week6&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week7%20%28Groups%29.pdf" target="_blank" rel="noopener">RC Week7&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week8%20%28Groups%29.pdf" target="_blank" rel="noopener">RC Week8&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week9%20%28Congruency%29.pdf" target="_blank" rel="noopener">RC Week9&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/mid-term%20review%28Functions%29.pdf" target="_blank" rel="noopener">Mid-term 1 Review&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/mid-term%20review%28Groups%2BCongruency%29.pdf" target="_blank" rel="noopener">Mid-term 2 Review&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>2020 Summer&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC1.pdf" target="_blank" rel="noopener">RC1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC2.pdf" target="_blank" rel="noopener">RC2&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC3.pdf" target="_blank" rel="noopener">RC3&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC4.pdf" target="_blank" rel="noopener">RC4&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC5.pdf" target="_blank" rel="noopener">RC5&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC6.pdf" target="_blank" rel="noopener">RC6&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Intro to Engineering</title><link>https://tianyuq.github.io/teaching/intro-to-engineering/</link><pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/intro-to-engineering/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as a teaching assistant for VG100 Intro to Engineering lectured by Prof. Shane Johnson and Prof. Irene Wei in 2018 Fall and 2019 Fall at Shanghai Jiao Tong University. Check the following links for more details.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Deployable Bridge Project&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100_Project1_MovableBridges.pdf" target="_blank" rel="noopener">Project Description&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Selected Projects: &lt;a href="https://www.instructables.com/Deployable-Bridge-VG100-UM-SJTU-Joint-Institute/" target="_blank" rel="noopener">Team7 vg100 UMJI&lt;/a>, &lt;a href="https://www.instructables.com/Deployable-Wooden-Bridge-From-VG100-Introduction-t/" target="_blank" rel="noopener">ZQ Rong&lt;/a>, &lt;a href="https://www.instructables.com/Deployable-Bridge-2/" target="_blank" rel="noopener">Legineerss&lt;/a>, &lt;a href="https://www.instructables.com/Movable-Bridge-8/" target="_blank" rel="noopener">Meta XIII&lt;/a>, &lt;a href="https://www.instructables.com/Movable-Bridge-14/" target="_blank" rel="noopener">the alligators&lt;/a>, &lt;a href="https://www.instructables.com/Movable-Wooden-Bridge-1/" target="_blank" rel="noopener">Trinity&lt;/a>, &lt;a href="https://www.instructables.com/SAMovable-Bridge/" target="_blank" rel="noopener">SA so cool&lt;/a>, &lt;a href="https://www.instructables.com/Movable-Bridge-2/" target="_blank" rel="noopener">L^4&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>2018 Lab Slides&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/2018FALL-VG100-LABSlide.pdf" target="_blank" rel="noopener">Lab 1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/2018FALL-VG100-LABSlide2.pdf" target="_blank" rel="noopener">Lab 2&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>2019 Fall&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab1.pdf" target="_blank" rel="noopener">Lab 1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab2.pdf" target="_blank" rel="noopener">Lab 2&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab3.pdf" target="_blank" rel="noopener">Lab 3&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>7th Grade Geography</title><link>https://tianyuq.github.io/teaching/volunteer-teaching/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/volunteer-teaching/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>In 2018 Winter, I went to Sanhe Junior High School (Yunnan Province, China) as a member of UMJI Volunteer Teaching team. We taught Maths, Chinese, Geography, English, Music courses for 7th and 8th grade students. Besides teaching, our team actively organized and participated in the Sports Meeting, the School&amp;rsquo;s Soccer Match and the New Year&amp;rsquo;s Gala. We made good friends with the students there. Check &lt;a href="https://www.bilibili.com/video/BV1wb411k7C6/" target="_blank" rel="noopener">Video&lt;/a> for more details.&lt;/p>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item></channel></rss>

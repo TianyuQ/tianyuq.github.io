@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Tianyu Qiu</title><link>https://tianyuq.github.io/post/</link><atom:link href="https://tianyuq.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://tianyuq.github.io/media/icon_hu20bc2444456ffdd75d5b63d8d49bf9af_82240_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://tianyuq.github.io/post/</link></image><item><title>[2024-10] Our paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" has been accpeted to Robotics &amp; Automation Letters!</title><link>https://tianyuq.github.io/post/qiu2024inferring_accpetance/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/post/qiu2024inferring_accpetance/</guid><description>&lt;p>Our paper &amp;ldquo;Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations&amp;rdquo; has been accpeted to Robotics &amp;amp; Automation Letters!&lt;/p>
+&lt;!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+![png](output_1_0.png)
+```python
+print("Welcome to Academic!")
+```
+Welcome to Academic!
+## Organize your notebooks
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+## Import the notebooks into your site
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. --></description></item><item><title>[2024-07] We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" to ICML 2024.</title><link>https://tianyuq.github.io/post/ra-l-submission/</link><pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/post/ra-l-submission/</guid><description>&lt;p>We submitted paper &amp;ldquo;Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations&amp;rdquo; to RA-L.&lt;/p>
+&lt;!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+![png](output_1_0.png)
+```python
+print("Welcome to Academic!")
+```
+Welcome to Academic!
+## Organize your notebooks
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+## Import the notebooks into your site
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. --></description></item><item><title>[2023-03] I'm glad to announce that I've graduated with Master of Engineering degree in Electronic Information from Shanghai Jiao Tong University! Thank you all for the help in my seven years' journey!</title><link>https://tianyuq.github.io/post/master-graduation/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/post/master-graduation/</guid><description>&lt;p>I&amp;rsquo;m glad to annouce that I&amp;rsquo;ve successfully defend my Master&amp;rsquo;s Thesis in February 2023 and graduated with Master of Engineering in Electronic Information from Shanghai Jiao Tong University in March 2023. Thank you all for the seven years&amp;rsquo; journey!&lt;/p>
+&lt;!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+![png](output_1_0.png)
+```python
+print("Welcome to Academic!")
+```
+Welcome to Academic!
+## Organize your notebooks
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+## Import the notebooks into your site
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. --></description></item><item><title>[2023-02] I'm glad to annouce that I'm joining University of Texas at Austin as an Aerospace Engineering Ph.D. student in 2023 Fall. See you in Austin, TX!</title><link>https://tianyuq.github.io/post/joining-clear/</link><pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/post/joining-clear/</guid><description>&lt;p>I&amp;rsquo;m glad to announce that I will join UT Austin as a Ph.D. student in 2023 Fall. I&amp;rsquo;m going to work as a research assistant in &lt;a href="https://clearoboticslab.github.io/" target="_blank" rel="noopener">CLeAR Lab&lt;/a>, under supervison of Prof. &lt;a href="https://dfridovi.github.io/" target="_blank" rel="noopener">David Fridovich-Keil&lt;/a>. My reseach focus includes reinforcement learning, game theory, social navigation and SLAM.&lt;/p>
+&lt;!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+![png](output_1_0.png)
+```python
+print("Welcome to Academic!")
+```
+Welcome to Academic!
+## Organize your notebooks
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+## Import the notebooks into your site
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. --></description></item></channel></rss>

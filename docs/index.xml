@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tianyu Qiu</title><link>https://tianyuq.github.io/</link><atom:link href="https://tianyuq.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Tianyu Qiu</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://tianyuq.github.io/media/icon_hu20bc2444456ffdd75d5b63d8d49bf9af_82240_512x512_fill_lanczos_center_3.png</url><title>Tianyu Qiu</title><link>https://tianyuq.github.io/</link></image><item><title>Example Talk</title><link>https://tianyuq.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://tianyuq.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Hugo Blox Builder&amp;rsquo;s &lt;a href="https://docs.hugoblox.com/reference/content-types/" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>[2024-10] Our paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" has been accpeted to Robotics &amp; Automation Letters!</title><link>https://tianyuq.github.io/post/qiu2024inferring_accpetance/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/post/qiu2024inferring_accpetance/</guid><description>&lt;p>Our paper &amp;ldquo;Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations&amp;rdquo; has been accpeted to Robotics &amp;amp; Automation Letters!&lt;/p>
+&lt;!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+![png](output_1_0.png)
+```python
+print("Welcome to Academic!")
+```
+Welcome to Academic!
+## Organize your notebooks
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+## Import the notebooks into your site
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. --></description></item><item><title>[2024-07] We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" to ICML 2024.</title><link>https://tianyuq.github.io/post/ra-l-submission/</link><pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/post/ra-l-submission/</guid><description>&lt;p>We submitted paper &amp;ldquo;Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations&amp;rdquo; to RA-L.&lt;/p>
+&lt;!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+![png](output_1_0.png)
+```python
+print("Welcome to Academic!")
+```
+Welcome to Academic!
+## Organize your notebooks
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+## Import the notebooks into your site
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. --></description></item><item><title>Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations</title><link>https://tianyuq.github.io/project/occluded-agents/</link><pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/project/occluded-agents/</guid><description>&lt;p>In mobile robotics and autonomous driving, it is natural to model agent interactions as the Nash equilibrium of a noncooperative, dynamic game. These methods inherently rely on observations from sensors such as lidars and cameras to identify agents participating in the game and, therefore, have difficulty when some agents are occluded. To address this limitation, this paper presents an occlusion-aware game-theoretic inference method to estimate the locations of potentially occluded agents, and simultaneously infer the intentions of both visible and occluded agents, which best accounts for the observations of visible agents. Additionally, we propose a receding horizon planning strategy based on an occlusion-aware contingency game designed to navigate in scenarios with potentially occluded agents. Monte Carlo simulations validate our approach, demonstrating that it accurately estimates the game model and trajectories for both visible and occluded agents using noisy observations of visible agents. Our planning pipeline significantly enhances navigation safety when compared to occlusion-ignorant baseline as well.&lt;/p></description></item><item><title>Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations</title><link>https://tianyuq.github.io/publication/qiu2023inferring/</link><pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/publication/qiu2023inferring/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations</title><link>https://tianyuq.github.io/project/dense-demo/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/project/dense-demo/</guid><description>&lt;p>Many continuous control problems can be formulated as sparse-reward reinforcement learning tasks. In principle, online reinforcement learning methods can automatically explore the state space to solve each new task. However, discovering sequences of actions which lead to a non-zero reward becomes exponentially more difficult as the task horizon increases. Manually shaping rewards can accelerate learning for a fixed task, but it can be an arduous process that must be repeated for each new environment. This work introduces a systematic reward-shaping framework which distills the information contained in 1) a task-agnostic prior data set and 2) a small number of task-specific expert demonstrations, and then uses these priors to synthesize dense dynamics-aware rewards for the given task. This supervision substantially accelerates learning in our experiments, and we provide analysis demonstrating how the approach can effectively guide online learning agents to faraway goals.&lt;/p></description></item><item><title>Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations</title><link>https://tianyuq.github.io/publication/qiu2024dense/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/publication/qiu2024dense/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Scientific Computing</title><link>https://tianyuq.github.io/teaching/scientific-computing/</link><pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/scientific-computing/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as the teaching assistant of COE322 Scientific Computing lectured by Prof. Victor Eijkhout and Prof. Susan Lindsey in 2023 Fall at UT Austin. Check &lt;a href="https://github.com/TACC/coe322fall2023" target="_blank" rel="noopener">Course Contents&lt;/a> for more details.&lt;/p>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>[2023-03] I'm glad to announce that I've graduated with Master of Engineering degree in Electronic Information from Shanghai Jiao Tong University! Thank you all for the help in my seven years' journey!</title><link>https://tianyuq.github.io/post/master-graduation/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/post/master-graduation/</guid><description>&lt;p>I&amp;rsquo;m glad to annouce that I&amp;rsquo;ve successfully defend my Master&amp;rsquo;s Thesis in February 2023 and graduated with Master of Engineering in Electronic Information from Shanghai Jiao Tong University in March 2023. Thank you all for the seven years&amp;rsquo; journey!&lt;/p>
+&lt;!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+![png](output_1_0.png)
+```python
+print("Welcome to Academic!")
+```
+Welcome to Academic!
+## Organize your notebooks
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+## Import the notebooks into your site
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. --></description></item><item><title>Pedestrian Trajectory Prediction and Mobile Robot Navigation Based on Inverse Dynamic Games</title><link>https://tianyuq.github.io/project/master-thesis/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/project/master-thesis/</guid><description>&lt;p>With the development of relevant techniques in robotics and the maturity of application solutions, mobile robots are capable of working in more complicated scenarios and their application fields are enormously expanded. Service mobile robots tend to navigate in human-rich environments. Comparing with static obstacles, pedestrians are highly dynamic and tend to disturb the navigation of mobile robots. Navigating among pedestrians is thus challenging to mobile robots.&lt;/p>
+&lt;p>To tackle the inaccuracy of modelling pedestrian behaviors due to their high dynamic and randomness, we proposed an inverse dynamic game method based on model predictive control (MPC-GPred) to model pedestrians&amp;rsquo; individual and group behavior.&lt;/p>
+&lt;p>For the high time complexity of solving for pedestrians&amp;rsquo; trajectories caused by the nonlinear cost function, we did linear quadratic approximation and analytically solve for Nash strategy as pedestrian trajectory prediction. To achieve best prediction performance, we apply inverse dynamic game technique to identify weighting parameters according to trajectory observations. We tested our method with open-source algorithms RVO and CADRL on prediction performance and results indicate the effectiveness of our method.&lt;/p>
+&lt;p>In practical navigation tasks, to tackle the inaccuracy of modelling pedestrian behaviors due to interactions between pedestrians and robots, we proposed a dynamic game navigation method based on model predictive control (MPC-GNav) for mobile robots. we add the mobile robot as the new agent in dynamic games and solve for Nash strategy as the control for mobile robots. Consider the difference of dynamic model between mobile robots and the dynamic game model, we applied feedback linearization to achieve the control of robot platforms. To tackle the problem of incapability of control mobile robots in large scenarios, we proposed a layered planning method to obtain local goals. Mobile robots complete the entire navigation tasks by navigating to each local We compared our method with open-source algorithms RVO and CADRL in simulated scenarios and results indicate the effectiveness of our method in collision avoidance.&lt;/p>
+&lt;p>We implemented MPC-GNav on &amp;ldquo;Jiao Long&amp;rdquo; smart wheelchair in pedestrian-rich scenarios such as corridors and halls and did navigation experiments among pedestrians and compared the results with open-source method DWA. Results indicate the effectiveness of our method in improving navigation safeness.&lt;/p></description></item><item><title>[2023-02] I'm glad to annouce that I'm joining University of Texas at Austin as an Aerospace Engineering Ph.D. student in 2023 Fall. See you in Austin, TX!</title><link>https://tianyuq.github.io/post/joining-clear/</link><pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/post/joining-clear/</guid><description>&lt;p>I&amp;rsquo;m glad to announce that I will join UT Austin as a Ph.D. student in 2023 Fall. I&amp;rsquo;m going to work as a research assistant in &lt;a href="https://clearoboticslab.github.io/" target="_blank" rel="noopener">CLeAR Lab&lt;/a>, under supervison of Prof. &lt;a href="https://dfridovi.github.io/" target="_blank" rel="noopener">David Fridovich-Keil&lt;/a>. My reseach focus includes reinforcement learning, game theory, social navigation and SLAM.&lt;/p>
+&lt;!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+![png](output_1_0.png)
+```python
+print("Welcome to Academic!")
+```
+Welcome to Academic!
+## Organize your notebooks
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+## Import the notebooks into your site
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. --></description></item><item><title>Nash Pursuit Strategy for Nonzero-Sum MPC Game via Inverse Optimal Control</title><link>https://tianyuq.github.io/publication/qiu2022nash/</link><pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/publication/qiu2022nash/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Scientific Writing (Graduate-level)</title><link>https://tianyuq.github.io/teaching/scientific-writing/</link><pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/scientific-writing/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as a teaching assistant for Scientific Writing lectured by Prof. Han Zhang in 2021 Fall at Shanghai Jiao Tong University.&lt;/p>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Science and Technology Innovation</title><link>https://tianyuq.github.io/teaching/science-and-technology-innovation/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/science-and-technology-innovation/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as the teaching assistant of Science and Technology Innovation lectured by Prof. Jingchuan Wang in 2021 Spring at Shanghai Jiao Tong University.&lt;/p>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Discrete Maths</title><link>https://tianyuq.github.io/teaching/discrete-maths/</link><pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/discrete-maths/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as a teaching assistant for VE203 Discrete Maths lectured by Prof. Zach Mckenzie in 2019 Summer and Prof. Heidi Anderson in 2020 Summer at Shanghai Jiao Tong University, respectively. I was nominated as an outstanding teaching assistant for the course. Check the following links for recitation notes for the course.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>2019 Summer&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week1%20%28Natural%20Numbers%29.pdf" target="_blank" rel="noopener">RC Week1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week2%20%28Logics%2BSets%29.pdf" target="_blank" rel="noopener">RC Week2&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week3%20%28Relations%2BOrders%2BLattices%2BFunctions%29.pdf" target="_blank" rel="noopener">RC Week3&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week4%20%28Functions%29.pdf" target="_blank" rel="noopener">RC Week4&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week5%20%28Functions%29.pdf" target="_blank" rel="noopener">RC Week5&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week6%20%28Functions%2BCounting%29.pdf" target="_blank" rel="noopener">RC Week6&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week7%20%28Groups%29.pdf" target="_blank" rel="noopener">RC Week7&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week8%20%28Groups%29.pdf" target="_blank" rel="noopener">RC Week8&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week9%20%28Congruency%29.pdf" target="_blank" rel="noopener">RC Week9&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/mid-term%20review%28Functions%29.pdf" target="_blank" rel="noopener">Mid-term 1 Review&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/mid-term%20review%28Groups%2BCongruency%29.pdf" target="_blank" rel="noopener">Mid-term 2 Review&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>2020 Summer&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC1.pdf" target="_blank" rel="noopener">RC1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC2.pdf" target="_blank" rel="noopener">RC2&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC3.pdf" target="_blank" rel="noopener">RC3&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC4.pdf" target="_blank" rel="noopener">RC4&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC5.pdf" target="_blank" rel="noopener">RC5&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC6.pdf" target="_blank" rel="noopener">RC6&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Healthcare Telepresence Robot for the Elderly</title><link>https://tianyuq.github.io/project/capstone-design/</link><pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/project/capstone-design/</guid><description>&lt;p>This is our Capstone Design Project in 2019 Fall. We designed and built a healthcare telepresence robot for the elderly, which enables remote video chat and remote control of medicine dispensation.&lt;/p></description></item><item><title>Intro to Engineering</title><link>https://tianyuq.github.io/teaching/intro-to-engineering/</link><pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/intro-to-engineering/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>I worked as a teaching assistant for VG100 Intro to Engineering lectured by Prof. Shane Johnson and Prof. Irene Wei in 2018 Fall and 2019 Fall at Shanghai Jiao Tong University. Check the following links for more details.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Deployable Bridge Project&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100_Project1_MovableBridges.pdf" target="_blank" rel="noopener">Project Description&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Selected Projects: &lt;a href="https://www.instructables.com/Deployable-Bridge-VG100-UM-SJTU-Joint-Institute/" target="_blank" rel="noopener">Team7 vg100 UMJI&lt;/a>, &lt;a href="https://www.instructables.com/Deployable-Wooden-Bridge-From-VG100-Introduction-t/" target="_blank" rel="noopener">ZQ Rong&lt;/a>, &lt;a href="https://www.instructables.com/Deployable-Bridge-2/" target="_blank" rel="noopener">Legineerss&lt;/a>, &lt;a href="https://www.instructables.com/Movable-Bridge-8/" target="_blank" rel="noopener">Meta XIII&lt;/a>, &lt;a href="https://www.instructables.com/Movable-Bridge-14/" target="_blank" rel="noopener">the alligators&lt;/a>, &lt;a href="https://www.instructables.com/Movable-Wooden-Bridge-1/" target="_blank" rel="noopener">Trinity&lt;/a>, &lt;a href="https://www.instructables.com/SAMovable-Bridge/" target="_blank" rel="noopener">SA so cool&lt;/a>, &lt;a href="https://www.instructables.com/Movable-Bridge-2/" target="_blank" rel="noopener">L^4&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>2018 Lab Slides&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/2018FALL-VG100-LABSlide.pdf" target="_blank" rel="noopener">Lab 1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/2018FALL-VG100-LABSlide2.pdf" target="_blank" rel="noopener">Lab 2&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>2019 Fall&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab1.pdf" target="_blank" rel="noopener">Lab 1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab2.pdf" target="_blank" rel="noopener">Lab 2&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab3.pdf" target="_blank" rel="noopener">Lab 3&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Slides</title><link>https://tianyuq.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-hugo-blox-builder">Create slides in Markdown with Hugo Blox Builder&lt;/h1>
+&lt;p>&lt;a href="https://hugoblox.com/" target="_blank" rel="noopener">Hugo Blox Builder&lt;/a> | &lt;a href="https://docs.hugoblox.com/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">{{% fragment %}} One {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} Three {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://docs.hugoblox.com/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>7th Grade Geography</title><link>https://tianyuq.github.io/teaching/volunteer-teaching/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>https://tianyuq.github.io/teaching/volunteer-teaching/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>In 2018 Winter, I went to Sanhe Junior High School (Yunnan Province, China) as a member of UMJI Volunteer Teaching team. We taught Maths, Chinese, Geography, English, Music courses for 7th and 8th grade students. Besides teaching, our team actively organized and participated in the Sports Meeting, the School&amp;rsquo;s Soccer Match and the New Year&amp;rsquo;s Gala. We made good friends with the students there. Check &lt;a href="https://www.bilibili.com/video/BV1wb411k7C6/" target="_blank" rel="noopener">Video&lt;/a> for more details.&lt;/p>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --></description></item></channel></rss>
