@@ -1,0 +1,35 @@
+---
+title: "[2023-02] I'm glad to annouce that I'm joining University of Texas at Austin as an Aerospace Engineering Ph.D. student in 2023 Fall. See you in Austin, TX!"
+date: '2023-02-12'
+summary: Ph.D. Admission
+---
+
+I'm glad to announce that I will join UT Austin as a Ph.D. student in 2023 Fall. I'm going to work as a research assistant in [CLeAR Lab](https://clearoboticslab.github.io/), under supervison of Prof. [David Fridovich-Keil](https://dfridovi.github.io/). My reseach focus includes reinforcement learning, game theory, social navigation and SLAM.
+
+<!-- ```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+
+    
+![png](output_1_0.png)
+    
+
+```python
+print("Welcome to Academic!")
+```
+
+    Welcome to Academic!
+
+## Organize your notebooks
+
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+
+## Import the notebooks into your site
+
+```bash
+pipx install academic
+academic import 'notebooks/**.ipynb' content/post/ --verbose
+```
+
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. -->
