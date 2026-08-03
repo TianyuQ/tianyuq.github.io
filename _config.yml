@@ -12,9 +12,9 @@ title                    : "Tianyu Qiu"
 title_separator          : "-"
 name                     : &name "Tianyu Qiu"
 description              : &description "Ph.D. student in Aerospace Engineering at UT Austin. Research in game theory, multi-robot planning, and robot navigation."
-url                      : https://tianyuqiu.github.io
+url                      : https://tianyuq.github.io
 baseurl                  : ""
-repository               : "TianyuQ/tianyuqiu.github.io"
+repository               : "TianyuQ/tianyuq.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

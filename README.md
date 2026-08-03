@@ -1,6 +1,6 @@
 # Tianyu Qiu
 
-Personal academic website: [https://tianyuqiu.github.io](https://tianyuqiu.github.io)
+Personal academic website: [https://tianyuq.github.io](https://tianyuq.github.io)
 
 Ph.D. student in Aerospace Engineering at The University of Texas at Austin ([CLeAR Lab](https://clearoboticslab.github.io/)).
 
