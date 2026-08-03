@@ -9,37 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my CV/resume is available [here]({{ base_path }}/files/Tianyu_Qiu_Resume.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Aerospace Engineering, The University of Texas at Austin, 2023–2028 (expected)
+  * Advisor: Prof. David Fridovich-Keil
+* M.Eng. in Electronic Information, Shanghai Jiao Tong University, 2020–2023
+  * Advisor: Prof. Jingchuan Wang
+* B.Eng. in Electrical & Computer Engineering, Shanghai Jiao Tong University, 2016–2020
+* High School Diploma, Shanghai High School, 2016
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023–present: Graduate Research Assistant
+  * CLeAR Lab, The University of Texas at Austin
+  * Research in game-theoretic planning, multi-robot interaction, and robot navigation
+  * Advisor: Prof. David Fridovich-Keil
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020–2023: Graduate Research Assistant
+  * Shanghai Jiao Tong University
+  * Master's thesis on social navigation for mobile robots based on inverse dynamic games
+  * Advisor: Prof. Jingchuan Wang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C/C++, MATLAB
+* Research: Game theory, reinforcement learning, optimal control, multi-agent planning
 
 Publications
 ======
@@ -47,18 +43,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
