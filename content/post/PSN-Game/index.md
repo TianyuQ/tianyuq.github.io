@@ -1,7 +1,7 @@
 ---
-title: '[2025-05] New preprint: "PSN Game: A Player Selection Network for Scalable Game-Theoretic Prediction and Planning"'
+title: '[2025-05] Our paper "PSN Game: A Player Selection Network for Scalable Game-Theoretic Prediction and Planning" has been accepted to TMLR!'
 date: '2025-05-01'
-summary: New preprint
+summary: Acceptance
 ---
 
-Our preprint [PSN Game: A Player Selection Network for Scalable Game-Theoretic Prediction and Planning](https://arxiv.org/abs/2505.00213) is now available on arXiv.
+Our paper [PSN Game: A Player Selection Network for Scalable Game-Theoretic Prediction and Planning](https://arxiv.org/abs/2505.00213) has been accepted.
