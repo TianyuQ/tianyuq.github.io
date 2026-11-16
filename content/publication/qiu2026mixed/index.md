@@ -1,4 +1,5 @@
 ---
+research_area: 'Game-Theoretic Planning for Multi-Robot Systems'
 title: 'Efficiently Solving Mixed-Hierarchy Games with Quasi-Policy Approximations'
 authors:
   - Hamzah Khan

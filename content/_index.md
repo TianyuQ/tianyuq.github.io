@@ -15,11 +15,12 @@ sections:
     id: news
     content:
       title: News
-      # Display the full news history.
+      # Display all news from the past 180 days.
       count: 0
       filters:
         folders:
           - post
+        within_days: 180
         exclude_future: true
       order: desc
       archive:
@@ -31,6 +32,9 @@ sections:
     id: publications
     content:
       title: Publications
+      research_groups:
+        - Game-Theoretic Planning for Multi-Robot Systems
+        - Robot Learning
       count: 0
       filters:
         folders:

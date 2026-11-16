@@ -1,4 +1,5 @@
 ---
+research_area: 'Robot Learning'
 title: 'Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations'
 authors:
   - Cevahir Koprulu

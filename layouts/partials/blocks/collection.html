@@ -59,6 +59,10 @@
   {{ $query = where $query "Date" "<" now }}
 {{ end }}
 {{/* Keep only items from the last N years (evaluated at build time). */}}
+{{ with $block.content.filters.within_days }}
+  {{ $cutoff := now.AddDate 0 0 (int (mul . -1)) }}
+  {{ $query = where $query "Date" ">=" $cutoff }}
+{{ end }}
 {{ with $block.content.filters.within_years }}
   {{ $cutoff := now.AddDate (int (mul . -1)) 0 0 }}
   {{ $query = where $query "Date" ">=" $cutoff }}
@@ -86,6 +90,17 @@
 
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
 
+  {{ if $block.content.research_groups }}
+    {{ range $block.content.research_groups }}
+      {{ $group_items := where $query "Params.research_area" . }}
+      {{ if gt (len $group_items) 0 }}
+        <h3>{{ . }}</h3>
+        {{ range $index, $item := $group_items }}
+          {{ partial "functions/render_view" (dict "page" $block "item" . "view" ($block.design.view | default "citation") "index" $index) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ else }}
   {{ range $index, $item := $query }}
     {{ if eq $block.design.view "news-text" }}
       <p class="news-item">
@@ -98,6 +113,10 @@
     {{ partial "functions/render_view" (dict "page" $block "item" . "view" ($block.design.view | default "compact") "index" $index) }}
     {{ end }}
   {{end}}
+  {{ end }}
+  {{ if and (eq (len $query) 0) $block.content.filters.within_days }}
+    <p class="text-muted">No news in the past {{ $block.content.filters.within_days }} days.</p>
+  {{ end }}
   {{ if and (eq (len $query) 0) $block.content.filters.within_years }}
     <p class="text-muted">No news in the past {{ $block.content.filters.within_years }} year{{ if ne (int $block.content.filters.within_years) 1 }}s{{ end }}.</p>
   {{ end }}

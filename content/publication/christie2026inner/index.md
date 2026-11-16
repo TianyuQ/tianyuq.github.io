@@ -1,4 +1,5 @@
 ---
+research_area: 'Robot Learning'
 title: 'Inner Product Regularization for Imitation Learning'
 authors:
   - Benjamin A. Christie

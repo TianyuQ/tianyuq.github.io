@@ -1,4 +1,5 @@
 ---
+research_area: 'Game-Theoretic Planning for Multi-Robot Systems'
 title: 'Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations'
 authors:
   - admin

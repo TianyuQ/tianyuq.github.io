@@ -1,4 +1,5 @@
 ---
+research_area: 'Game-Theoretic Planning for Multi-Robot Systems'
 title: 'PSN Game: A Player Selection Network for Scalable Game-Theoretic Prediction and Planning'
 authors:
   - admin

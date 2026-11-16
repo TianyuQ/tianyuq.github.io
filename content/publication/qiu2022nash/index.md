@@ -1,4 +1,5 @@
 ---
+research_area: 'Game-Theoretic Planning for Multi-Robot Systems'
 title: 'Nash Pursuit Strategy for Nonzero-Sum MPC Game via Inverse Optimal Control'
 
 # Authors

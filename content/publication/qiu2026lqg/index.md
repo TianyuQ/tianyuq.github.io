@@ -1,4 +1,5 @@
 ---
+research_area: 'Game-Theoretic Planning for Multi-Robot Systems'
 title: 'Linear-Quadratic Gaussian Games with Distributed Sparse Estimation'
 authors:
   - admin
