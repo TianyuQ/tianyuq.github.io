@@ -11,3 +11,6 @@ go.sum
 
 # Legacy local site copy retained during migration
 /me-main/
+
+# Unpublished project draft: reference only, not a public site asset.
+/content/project/Nonconvex/*.pdf

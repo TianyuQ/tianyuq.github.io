@@ -1,0 +1,13 @@
+{{- with .Page.Resources.GetMatch (.Get "src") -}}
+<figure>
+  {{- if eq ($.Get "kind") "video" }}
+  <video controls muted playsinline preload="metadata" style="display:block;width:100%;height:auto" aria-label="{{ $.Get "caption" }}">
+    <source src="{{ .RelPermalink }}" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+  {{- else }}
+  <img src="{{ .RelPermalink }}" alt="{{ $.Get "caption" }}" loading="lazy" style="display:block;max-width:100%;height:auto;margin:auto">
+  {{- end }}
+  <figcaption>{{ $.Get "caption" }}</figcaption>
+</figure>
+{{- end -}}
