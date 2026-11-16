@@ -19,9 +19,6 @@ abstract: Many continuous control problems can be formulated as sparse-reward re
 summary: Reward shaping that combines task-agnostic prior data with a few expert demonstrations to synthesize dense dynamics-aware rewards.
 tags: []
 featured: true
-links:
-  - name: Project Page
-    url: '/project/dense-demo/'
 url_pdf: 'https://arxiv.org/pdf/2412.01114.pdf'
 ---
 

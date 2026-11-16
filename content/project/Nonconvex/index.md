@@ -4,6 +4,10 @@ summary: 'Ongoing work on collision-aware motion planning for teams of robots wi
 date: '2026-11-15'
 tags: []
 external_link: ''
+image:
+  caption: 'Ongoing work: multi-robot trajectory optimization.'
+  focal_point: 'Center'
+  preview_only: true
 _build:
   publishResources: false
 ---
