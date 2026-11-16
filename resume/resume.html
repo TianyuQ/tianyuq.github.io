@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tianyu Qiu</title>
+<style>
+:root {
+    --ink: #171717;
+    --muted: #444444;
+    --rule: #222222;
+    --paper: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: var(--ink);
+    background: #eeeeee;
+    font: 1.02em Calibri, Arial, sans-serif;
+    line-height: 1.22;
+    margin: 40px 0;
+}
+
+#resume {
+    margin: 0 auto;
+    max-width: 8.5in;
+    padding: 0.55in 0.7in;
+    background: var(--paper);
+    border: 1px solid #cccccc;
+    box-shadow: 2px 2px 5px #aaaaaa;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.05em;
+    letter-spacing: 0.04em;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    border-bottom: 1px solid var(--rule);
+    text-transform: uppercase;
+    letter-spacing: 0.045em;
+    font-size: 1.16em;
+    margin: 0.78em 0 0.28em;
+    padding: 0 0 0.08em;
+}
+
+h3 {
+    align-items: baseline;
+    display: flex;
+    font-size: 1em;
+    gap: 0.6em;
+    justify-content: space-between;
+    margin: 0.48em 0 0.12em;
+    padding: 0;
+}
+
+h3:has(+ h4) {
+    font-size: 1.1em;
+    margin-top: 0.7em;
+    font-style: normal;
+}
+
+h4 {
+    font-size: 1em;
+    margin: 0.48em 0 0.12em;
+    padding: 0;
+}
+
+h3 > span:first-child {
+    min-width: 0;
+}
+
+h3 > span:last-child,
+.date {
+    float: right;
+    font-weight: normal;
+    white-space: nowrap;
+}
+
+.date-next-line {
+    display: block;
+    font-weight: normal;
+    text-align: right;
+}
+
+p {
+    color: var(--muted);
+    margin: 0 0 0.28em;
+    padding: 0;
+}
+
+ul {
+    margin: 0.08em 0 0.26em 1.25em;
+    padding: 0;
+}
+
+li {
+    margin: 0.08em 0;
+    padding-left: 0.08em;
+}
+
+h1 + ul {
+    margin: 0.16em 0 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 + ul > li {
+    display: inline;
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+h1 + ul > li::after {
+    content: "  \2022  ";
+}
+
+h1 + ul > li:last-child::after {
+    content: "";
+}
+
+h1 + ul + p {
+    color: var(--ink);
+    font-style: italic;
+    margin: 0.45em auto 0.55em;
+    max-width: 7.1in;
+    text-align: center;
+}
+
+a,
+a:link,
+a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+@media print {
+    body {
+        background: none;
+        font-size: 9.15pt;
+        margin: 0;
+        padding: 0;
+    }
+
+    #resume {
+        background: none;
+        border: 0;
+        box-shadow: none;
+        margin: 0;
+        max-width: none;
+        padding: 0;
+    }
+
+    h2,
+    h3,
+    h4 {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    p,
+    li {
+        orphans: 2;
+        widows: 2;
+    }
+
+    a,
+    a:link,
+    a:visited,
+    a:hover {
+        color: #000000;
+        text-decoration: none;
+    }
+}
+
+@page {
+    size: letter;
+    margin: 0.43in 0.62in;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        background: #ffffff;
+        font-size: 13pt;
+        margin: 0;
+        padding: 0;
+    }
+
+    #resume {
+        border: 0;
+        box-shadow: none;
+        margin: 0;
+        padding: 1em;
+    }
+
+    h3 {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.08em;
+    }
+
+    h3 > span:last-child,
+    .date {
+        float: none;
+        white-space: normal;
+    }
+}
+
+</style>
+</head>
+<body>
+<main id="resume">
+<h1>Tianyu Qiu</h1>
+<ul>
+<li><a href="mailto:tianyuqiu@utexas.edu">tianyuqiu@utexas.edu</a></li>
+<li><a href="https://www.linkedin.com/in/tianyuqiu/">https://www.linkedin.com/in/tianyuqiu/</a></li>
+<li><a href="https://tianyuq.github.io/">https://tianyuq.github.io/</a></li>
+</ul>
+<h2>Education</h2>
+<h3><span>Ph.D. Student in Aerospace Engineering</span> <span>Aug 2023 -- Dec 2027 (Expected)</span></h3>
+<p>The University of Texas at Austin <span class="date">Austin, TX</span><br>
+Advisor: Prof. David Fridovich-Keil</p>
+<h3><span>Master of Engineering in Control Engineering</span> <span>Mar 2023</span></h3>
+<p>Shanghai Jiao Tong University <span class="date">Shanghai, China</span></p>
+<h3><span>Bachelor of Engineering in Electrical and Computer Engineering</span> <span>Aug 2020</span></h3>
+<p>Shanghai Jiao Tong University <span class="date">Shanghai, China</span><br>
+Minor in Data Science</p>
+<h2>Research Interests</h2>
+<p><strong>Multi-Robot Planning, Game Theory, and Robot Navigation</strong></p>
+<h2>Honors and Awards</h2>
+<ul>
+<li><strong>Bob E. Schutz, Ph.D. Endowed Presidential Fellowship in Aerospace Engineering</strong> <span class="date">2025 -- 2026</span></li>
+<li><strong>NSF Travel Award and Texas Robotics Conference Funding, L4DC</strong> <span class="date">2025</span></li>
+<li><strong>Professional Development Awards, UT Austin Graduate School</strong> <span class="date-next-line">Spring and Summer 2025; Fall 2026</span></li>
+<li><strong>Graduate Outstanding Scholarship</strong> <span class="date">2020 -- 2023</span></li>
+<li><strong>John Wu and Jane Sun Elite Undergraduate Scholarship</strong> <span class="date">2016 -- 2020</span></li>
+</ul>
+<h2>Publications</h2>
+<h3>Game-Theoretic Planning for Multi-Robot Systems</h3>
+<h4><a href="https://arxiv.org/abs/2603.17202">Linear-Quadratic Gaussian Games with Distributed Sparse Estimation</a></h4>
+<p><strong>Tianyu Qiu</strong>, F. Fotiadis, X. Liu, C. Ellis, J. Milzman, W. Suttle, U. Topcu, and D. Fridovich-Keil.<br>
+<em>IEEE Control Systems Letters (L-CSS); to be presented at CDC 2026.</em></p>
+<h4><a href="https://arxiv.org/abs/2602.01568">Efficiently Solving Mixed-Hierarchy Games with Quasi-Policy Approximations</a></h4>
+<p>H. Khan, D. H. Lee, J. Li, <strong>Tianyu Qiu</strong>, C. Ellis, J. Milzman, W. Suttle, and D. Fridovich-Keil.<br>
+<em>17th World Symposium on the Algorithmic Foundations of Robotics (WAFR 2026).</em></p>
+<h4><a href="https://arxiv.org/abs/2505.00213">A Player Selection Network for Scalable Game-Theoretic Prediction and Planning</a></h4>
+<p><strong>Tianyu Qiu</strong>, E. Ouano, F. Palafox, C. Ellis, and D. Fridovich-Keil.<br>
+<em>Transactions on Machine Learning Research (TMLR).</em></p>
+<h4><a href="https://arxiv.org/abs/2303.09744">Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations</a></h4>
+<p><strong>Tianyu Qiu</strong> and D. Fridovich-Keil.<br>
+<em>IEEE Robotics and Automation Letters (RA-L).</em></p>
+<h4><a href="https://ieeexplore.ieee.org/document/9828010">Nash Pursuit Strategy for Nonzero-sum MPC Game via Inverse Optimal Control</a></h4>
+<p><strong>Tianyu Qiu</strong>, H. Zhang, and J. Wang.<br>
+<em>13th Asian Control Conference.</em></p>
+<h3>Robot Learning</h3>
+<h4><a href="https://arxiv.org/abs/2611.17159">Inner Product Regularization for Imitation Learning</a></h4>
+<p>B. A. Christie, <strong>Tianyu Qiu</strong>, A. H. Choi, D. Fridovich-Keil, and D. P. Losey.<br>
+<em>The International Journal of Robotics Research (IJRR), under submission.</em></p>
+<h4><a href="https://arxiv.org/abs/2412.01114">Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations</a></h4>
+<p>C. Koprulu<sup>&#42;</sup>, P.-H. Li<sup>&#42;</sup>, <strong>Tianyu Qiu</strong><sup>&#42;</sup>, T. Westenbroek, R. Zhao, D. Fridovich-Keil, S. Chinchali, and U. Topcu.<br>
+<em>7th Annual Learning for Dynamics & Control Conference (L4DC 2025).</em></p>
+<h2>Research Experience</h2>
+<h3><span><a href="https://clearoboticslab.github.io/">CLeAR Lab</a>, The University of Texas at Austin</span> <span>Austin, TX</span></h3>
+<p><strong>Graduate Research Assistant</strong> | Advisor: Prof. David Fridovich-Keil <span class="date">Aug 2023 -- Present</span><br>
+<strong>Research Intern (Remote)</strong> <span class="date">Dec 2021 -- Jul 2023</span></p>
+<ul>
+<li>Conduct research on game-theoretic planning, inference, and learning for multi-agent robotic systems.</li>
+</ul>
+<h3><span><a href="https://robotics.sjtu.edu.cn/">Autonomous Robot Lab</a>, Shanghai Jiao Tong University</span> <span>Shanghai, China</span></h3>
+<p><strong>Graduate Research Assistant</strong> | Advisor: Prof. Jingchuan Wang <span class="date">Sep 2020 -- Mar 2023</span></p>
+<ul>
+<li>Developed game-theoretic prediction and control methods for mobile robot navigation.</li>
+</ul>
+<h2>Teaching and Mentoring</h2>
+<h3><span>The University of Texas at Austin</span> <span>Austin, TX</span></h3>
+<p><strong>Teaching Assistant and Ph.D. Mentor</strong></p>
+<ul>
+<li>Scientific Computation (undergraduate) <span class="date">Aug 2023 -- Dec 2023</span></li>
+<li><a href="https://oden.utexas.edu/news-and-events/news/react-undergraduate-research-program/">UT REACT REU Program, Ph.D. Mentor</a> <span class="date">Jul 2024 -- Aug 2024</span></li>
+</ul>
+<h3><span>Shanghai Jiao Tong University</span> <span>Shanghai, China</span></h3>
+<p><strong>Teaching Assistant</strong></p>
+<ul>
+<li>Scientific Writing, Integrity and Ethics (graduate) <span class="date">Sep 2021 -- Dec 2021</span></li>
+<li>Science and Technology Innovation (Part 4-E) (undergraduate) <span class="date">Feb 2021 -- Jun 2021</span></li>
+<li><a href="https://tianyuq.github.io/me/teaching/discrete-maths/">Discrete Maths</a> (undergraduate) <span class="date">May -- Aug 2019; May -- Aug 2020</span></li>
+<li><a href="https://tianyuq.github.io/me/teaching/intro-to-engineering/">Intro to Engineering</a> (undergraduate) <span class="date">Sep -- Dec 2018; Sep -- Dec 2019</span></li>
+</ul>
+<h2>Technical Skills</h2>
+<ul>
+<li><strong>Programming Languages:</strong> Python, Julia, MATLAB, C/C++</li>
+<li><strong>Robotics-related Software:</strong> ROS / ROS 2, Gazebo, robosuite, Vicon, MuJoCo, Isaac Sim</li>
+<li><strong>Robot Platforms:</strong> Clearpath Jackal, Clearpath Husky, Unitree Go2, TurtleBot Burger, Smart Wheelchairs</li>
+<li><strong>Libraries and Tools:</strong> PyTorch, JAX, CVXPY, YALMIP, Clarabel, SCS, Git</li>
+</ul>
+</main>
+</body>
+</html>

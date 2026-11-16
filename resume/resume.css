@@ -1,0 +1,210 @@
+:root {
+    --ink: #171717;
+    --muted: #444444;
+    --rule: #222222;
+    --paper: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: var(--ink);
+    background: #eeeeee;
+    font: 1.02em Calibri, Arial, sans-serif;
+    line-height: 1.22;
+    margin: 40px 0;
+}
+
+#resume {
+    margin: 0 auto;
+    max-width: 8.5in;
+    padding: 0.55in 0.7in;
+    background: var(--paper);
+    border: 1px solid #cccccc;
+    box-shadow: 2px 2px 5px #aaaaaa;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.05em;
+    letter-spacing: 0.04em;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    border-bottom: 1px solid var(--rule);
+    text-transform: uppercase;
+    letter-spacing: 0.045em;
+    font-size: 1.16em;
+    margin: 0.78em 0 0.28em;
+    padding: 0 0 0.08em;
+}
+
+h3 {
+    align-items: baseline;
+    display: flex;
+    font-size: 1em;
+    gap: 0.6em;
+    justify-content: space-between;
+    margin: 0.48em 0 0.12em;
+    padding: 0;
+}
+
+h3:has(+ h4) {
+    font-size: 1.1em;
+    margin-top: 0.7em;
+    font-style: normal;
+}
+
+h4 {
+    font-size: 1em;
+    margin: 0.48em 0 0.12em;
+    padding: 0;
+}
+
+h3 > span:first-child {
+    min-width: 0;
+}
+
+h3 > span:last-child,
+.date {
+    float: right;
+    font-weight: normal;
+    white-space: nowrap;
+}
+
+.date-next-line {
+    display: block;
+    font-weight: normal;
+    text-align: right;
+}
+
+p {
+    color: var(--muted);
+    margin: 0 0 0.28em;
+    padding: 0;
+}
+
+ul {
+    margin: 0.08em 0 0.26em 1.25em;
+    padding: 0;
+}
+
+li {
+    margin: 0.08em 0;
+    padding-left: 0.08em;
+}
+
+h1 + ul {
+    margin: 0.16em 0 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 + ul > li {
+    display: inline;
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+h1 + ul > li::after {
+    content: "  \2022  ";
+}
+
+h1 + ul > li:last-child::after {
+    content: "";
+}
+
+h1 + ul + p {
+    color: var(--ink);
+    font-style: italic;
+    margin: 0.45em auto 0.55em;
+    max-width: 7.1in;
+    text-align: center;
+}
+
+a,
+a:link,
+a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+@media print {
+    body {
+        background: none;
+        font-size: 9.15pt;
+        margin: 0;
+        padding: 0;
+    }
+
+    #resume {
+        background: none;
+        border: 0;
+        box-shadow: none;
+        margin: 0;
+        max-width: none;
+        padding: 0;
+    }
+
+    h2,
+    h3,
+    h4 {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    p,
+    li {
+        orphans: 2;
+        widows: 2;
+    }
+
+    a,
+    a:link,
+    a:visited,
+    a:hover {
+        color: #000000;
+        text-decoration: none;
+    }
+}
+
+@page {
+    size: letter;
+    margin: 0.43in 0.62in;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        background: #ffffff;
+        font-size: 13pt;
+        margin: 0;
+        padding: 0;
+    }
+
+    #resume {
+        border: 0;
+        box-shadow: none;
+        margin: 0;
+        padding: 1em;
+    }
+
+    h3 {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.08em;
+    }
+
+    h3 > span:last-child,
+    .date {
+        float: none;
+        white-space: normal;
+    }
+}

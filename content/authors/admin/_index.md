@@ -121,7 +121,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Tianyu Qiu Resume.pdf
+    link: /uploads/TianyuQiu_Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
