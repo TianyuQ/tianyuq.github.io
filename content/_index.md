@@ -15,20 +15,31 @@ sections:
     id: news
     content:
       title: News
-      # Show recent items only; 0 = no limit after the date filter
-      count: 10
+      # Display the full news history.
+      count: 0
       filters:
         folders:
           - post
-        # Automatically keep only posts from the past N years on each rebuild
-        within_years: 1
         exclude_future: true
       order: desc
       archive:
-        enable: true
-        link: '/post/'
-        text: 'See all news'
+        enable: false
     design:
-      view: list
+      view: news-text
+      columns: '2'
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      count: 0
+      filters:
+        folders:
+          - publication
+        exclude_future: true
+      order: desc
+      archive:
+        enable: false
+    design:
+      view: citation
       columns: '2'
 ---

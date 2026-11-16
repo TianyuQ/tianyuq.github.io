@@ -12,9 +12,6 @@ abstract: In mobile robotics and autonomous driving, it is natural to model agen
 summary: Occlusion-aware game-theoretic inference and contingency planning for navigation with potentially occluded agents.
 tags: []
 featured: true
-links:
-  - name: Project Page
-    url: '/project/occluded-agents/'
 url_pdf: 'https://arxiv.org/pdf/2303.09744.pdf'
 image:
   caption: ''

@@ -87,7 +87,16 @@
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
 
   {{ range $index, $item := $query }}
+    {{ if eq $block.design.view "news-text" }}
+      <p class="news-item">
+        {{ .Title }}
+        {{ with .Params.paper_link }}
+          <a href="{{ . | safeURL }}">Check paper here</a>.
+        {{ end }}
+      </p>
+    {{ else }}
     {{ partial "functions/render_view" (dict "page" $block "item" . "view" ($block.design.view | default "compact") "index" $index) }}
+    {{ end }}
   {{end}}
   {{ if and (eq (len $query) 0) $block.content.filters.within_years }}
     <p class="text-muted">No news in the past {{ $block.content.filters.within_years }} year{{ if ne (int $block.content.filters.within_years) 1 }}s{{ end }}.</p>

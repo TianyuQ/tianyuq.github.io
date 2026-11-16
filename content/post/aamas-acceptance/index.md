@@ -1,5 +1,6 @@
 ---
 title: "[2025-12] Our paper \"PSN Game: Game-theoretic Prediction and Planning via a Player Selection Network\" was accepted to AAMAS 2026 as an extended abstract."
+paper_link: 'https://openreview.net/forum?id=TNQ8J3JC1Y'
 date: '2025-12-19'
 summary: "Our paper PSN Game: Game-theoretic Prediction and Planning via a Player Selection Network was accepted to AAMAS 2026 as an extended abstract."
 ---
