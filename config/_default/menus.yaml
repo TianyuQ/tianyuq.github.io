@@ -19,6 +19,3 @@ main:
   - name: Contact
     url: '/contact/'
     weight: 60
-  - name: CV
-    url: '/uploads/TianyuQiu_Resume.pdf'
-    weight: 70

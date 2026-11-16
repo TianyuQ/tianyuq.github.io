@@ -28,7 +28,7 @@ Minor in Data Science
 
 - **Bob E. Schutz, Ph.D. Endowed Presidential Fellowship in Aerospace Engineering** <span class="date">2025 -- 2026</span>
 - **NSF Travel Award and Texas Robotics Conference Funding, L4DC** <span class="date">2025</span>
-- **Professional Development Awards, UT Austin Graduate School** <span class="date-next-line">Spring and Summer 2025; Fall 2026</span>
+- **Professional Development Awards, UT Austin Graduate School** <span class="date">Spring and Summer 2025; Fall 2026</span>
 - **Graduate Outstanding Scholarship** <span class="date">2020 -- 2023</span>
 - **John Wu and Jane Sun Elite Undergraduate Scholarship** <span class="date">2016 -- 2020</span>
 
