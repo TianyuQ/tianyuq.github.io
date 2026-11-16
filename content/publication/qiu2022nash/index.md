@@ -15,7 +15,6 @@ authors:
 #   - 'Equal contribution'
 
 date: '2022-07-20'
-doi: 'https://doi.org/10.23919/ASCC56756.2022.9828010'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-20'

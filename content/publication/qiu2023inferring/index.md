@@ -4,7 +4,6 @@ authors:
   - admin
   - David Fridovich-Keil
 date: '2024-12-01'
-doi: 'https://doi.org/10.1109/LRA.2024.3490398'
 publishDate: '2024-12-01'
 publication_types: ['paper-journal']
 publication: 'IEEE Robotics and Automation Letters, 9(12), 11489–11496'
@@ -13,12 +12,10 @@ abstract: In mobile robotics and autonomous driving, it is natural to model agen
 summary: Occlusion-aware game-theoretic inference and contingency planning for navigation with potentially occluded agents.
 tags: []
 featured: true
-url_pdf: 'https://arxiv.org/pdf/2303.09744.pdf'
 links:
-  - name: IEEE Xplore
-    url: 'https://doi.org/10.1109/LRA.2024.3490398'
-  - name: arXiv
-    url: 'https://arxiv.org/abs/2303.09744'
+  - name: Project Page
+    url: '/project/occluded-agents/'
+url_pdf: 'https://arxiv.org/pdf/2303.09744.pdf'
 image:
   caption: ''
   focal_point: 'Smart'

@@ -6,9 +6,8 @@ authors:
   - Fernando Palafox
   - Christian Ellis
   - David Fridovich-Keil
-date: '2025-05-01'
-doi: 'https://doi.org/10.48550/arXiv.2505.00213'
-publishDate: '2025-05-01'
+date: '2026-06-19'
+publishDate: '2026-06-19'
 publication_types: ['paper-journal']
 publication: 'Transactions on Machine Learning Research (TMLR)'
 publication_short: 'TMLR'
@@ -17,7 +16,4 @@ summary: A learning-based player selection network that reduces game size for sc
 tags: []
 featured: true
 url_pdf: 'https://arxiv.org/pdf/2505.00213.pdf'
-links:
-  - name: arXiv
-    url: 'https://arxiv.org/abs/2505.00213'
 ---

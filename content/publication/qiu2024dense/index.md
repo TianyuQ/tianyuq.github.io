@@ -10,7 +10,6 @@ authors:
   - Sandeep Chinchali
   - Ufuk Topcu
 date: '2025-01-01'
-doi: ''
 publishDate: '2025-01-01'
 publication_types: ['paper-conference']
 publication: 'Proceedings of the 7th Annual Learning for Dynamics & Control Conference (L4DC), PMLR 283:894–906'
@@ -19,11 +18,9 @@ abstract: Many continuous control problems can be formulated as sparse-reward re
 summary: Reward shaping that combines task-agnostic prior data with a few expert demonstrations to synthesize dense dynamics-aware rewards.
 tags: []
 featured: true
-url_pdf: 'https://arxiv.org/pdf/2412.01114.pdf'
 links:
-  - name: PMLR
-    url: 'https://proceedings.mlr.press/v283/koprulu25a.html'
-  - name: arXiv
-    url: 'https://arxiv.org/abs/2412.01114'
+  - name: Project Page
+    url: '/project/dense-demo/'
+url_pdf: 'https://arxiv.org/pdf/2412.01114.pdf'
 ---
 

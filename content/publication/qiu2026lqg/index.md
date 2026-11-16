@@ -10,7 +10,6 @@ authors:
   - Ufuk Topcu
   - David Fridovich-Keil
 date: '2026-03-17'
-doi: 'https://doi.org/10.1109/LCSYS.2026.3703777'
 publishDate: '2026-03-17'
 publication_types: ['paper-journal']
 publication: 'IEEE Control Systems Letters'
@@ -19,10 +18,6 @@ abstract: Linear-quadratic Gaussian games provide a framework for modeling strat
 summary: Distributed sparse estimation for linear-quadratic Gaussian games under limited interagent measurements.
 tags: []
 featured: true
+url_code: 'https://github.com/CLeARoboticsLab/Sensor-Selection'
 url_pdf: 'https://arxiv.org/pdf/2603.17202.pdf'
-links:
-  - name: IEEE Xplore
-    url: 'https://doi.org/10.1109/LCSYS.2026.3703777'
-  - name: arXiv
-    url: 'https://arxiv.org/abs/2603.17202'
 ---

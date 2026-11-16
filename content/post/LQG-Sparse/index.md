@@ -1,7 +1,7 @@
 ---
-title: '[2026-03] New preprint: "Linear-Quadratic Gaussian Games with Distributed Sparse Estimation"'
+title: "[2026-03] We submitted \"Linear-Quadratic Gaussian Games with Distributed Sparse Estimation\" to IEEE Control Systems Letters (L-CSS), with the CDC 2026 option."
 date: '2026-03-17'
-summary: New preprint
+summary: "We submitted Linear-Quadratic Gaussian Games with Distributed Sparse Estimation to IEEE Control Systems Letters (L-CSS), with the CDC 2026 option."
 ---
 
-Our preprint [Linear-Quadratic Gaussian Games with Distributed Sparse Estimation](https://arxiv.org/abs/2603.17202) is now available on arXiv.
+We submitted [Linear-Quadratic Gaussian Games with Distributed Sparse Estimation](https://arxiv.org/abs/2603.17202) to IEEE Control Systems Letters (L-CSS), with the CDC 2026 option.

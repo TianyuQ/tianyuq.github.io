@@ -10,7 +10,6 @@ authors:
   - Wesley Suttle
   - David Fridovich-Keil
 date: '2026-02-01'
-doi: 'https://doi.org/10.48550/arXiv.2602.01568'
 publishDate: '2026-02-01'
 publication_types: ['paper-conference']
 publication: 'Workshop on the Algorithmic Foundations of Robotics (WAFR) 2026'
@@ -20,7 +19,4 @@ summary: Quasi-policy approximations for efficiently solving forest-structured m
 tags: []
 featured: true
 url_pdf: 'https://arxiv.org/pdf/2602.01568.pdf'
-links:
-  - name: arXiv
-    url: 'https://arxiv.org/abs/2602.01568'
 ---

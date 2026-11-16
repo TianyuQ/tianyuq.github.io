@@ -1,7 +1,7 @@
 ---
-title: '[2025-05] Our paper "PSN Game: A Player Selection Network for Scalable Game-Theoretic Prediction and Planning" has been accepted to TMLR!'
-date: '2025-05-01'
-summary: Acceptance
+title: "[2026-06] Our paper \"A Player Selection Network for Scalable Game-Theoretic Prediction and Planning\" was accepted to Transactions on Machine Learning Research (TMLR)."
+date: '2026-06-19'
+summary: "Our paper A Player Selection Network for Scalable Game-Theoretic Prediction and Planning was accepted to Transactions on Machine Learning Research (TMLR)."
 ---
 
-Our paper [PSN Game: A Player Selection Network for Scalable Game-Theoretic Prediction and Planning](https://arxiv.org/abs/2505.00213) has been accepted.
+Our paper [A Player Selection Network for Scalable Game-Theoretic Prediction and Planning](https://openreview.net/forum?id=YvvB78ILSP) was accepted to Transactions on Machine Learning Research (TMLR).
