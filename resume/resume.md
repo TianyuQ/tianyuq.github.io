@@ -20,9 +20,14 @@ Shanghai Jiao Tong University <span class="date">Shanghai, China</span>
 Shanghai Jiao Tong University <span class="date">Shanghai, China</span>  
 Minor in Data Science
 
-## Research Interests
+## Research Interests & Technical Skills
 
 **Multi-Robot Planning, Game Theory, and Robot Navigation**
+
+- **Programming Languages:** Python, Julia, MATLAB, C/C++
+- **Robotics-related Software:** ROS / ROS 2, Gazebo, robosuite, Vicon, MuJoCo, Isaac Sim
+- **Robot Platforms:** Clearpath Jackal, Clearpath Husky, Unitree Go2, Booster T1, TurtleBot Burger, Smart Wheelchairs
+- **Libraries and Tools:** PyTorch, JAX, CVXPY, YALMIP, Clarabel, SCS, Git
 
 ## Honors and Awards
 
@@ -88,6 +93,31 @@ C. Koprulu<sup>&#42;</sup>, P.-H. Li<sup>&#42;</sup>, **Tianyu Qiu**<sup>&#42;</
 
 - Developed game-theoretic prediction and control methods for mobile robot navigation.
 
+## Project Experience
+
+### Interaction-Aware Game-Theoretic Multi-Robot Shape Formation
+
+**Course Project: Game-Theoretic Modelling for Multi-Agent Systems**  
+The University of Texas at Austin
+
+- Developed an interaction-aware goal assignment framework using game-theoretic trajectory costs for multi-robot shape formation.
+- Formulated total-cost and worst-case agent-cost objectives to balance formation efficiency and fairness across robots.
+- Reduced formation completion steps by an average of 19.3% compared to the Hungarian algorithm and 40.0% compared to the greedy algorithm across circular and consecutive letter formation experiments.
+
+## Service
+
+**Conference Reviewer**
+
+- IEEE International Conference on Robotics and Automation (ICRA) <span class="date">2026, 2027</span>
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) <span class="date">2024, 2025</span>
+- Conference on Robot Learning (CoRL) <span class="date">2025, 2026</span>
+- IEEE Intelligent Vehicles Symposium (IV) <span class="date">2025</span>
+
+**Journal Reviewer**
+
+- IEEE Robotics and Automation Letters (RA-L) <span class="date">2025, 2026</span>
+- IEEE Control Systems Letters (L-CSS) <span class="date">2026</span>
+
 ## Teaching and Mentoring
 
 ### <span>The University of Texas at Austin</span> <span>Austin, TX</span>
@@ -105,10 +135,3 @@ C. Koprulu<sup>&#42;</sup>, P.-H. Li<sup>&#42;</sup>, **Tianyu Qiu**<sup>&#42;</
 - Science and Technology Innovation (Part 4-E) (undergraduate) <span class="date">Feb 2021 -- Jun 2021</span>
 - [Discrete Maths](https://tianyuq.github.io/me/teaching/discrete-maths/) (undergraduate) <span class="date">May -- Aug 2019; May -- Aug 2020</span>
 - [Intro to Engineering](https://tianyuq.github.io/me/teaching/intro-to-engineering/) (undergraduate) <span class="date">Sep -- Dec 2018; Sep -- Dec 2019</span>
-
-## Technical Skills
-
-- **Programming Languages:** Python, Julia, MATLAB, C/C++
-- **Robotics-related Software:** ROS / ROS 2, Gazebo, robosuite, Vicon, MuJoCo, Isaac Sim
-- **Robot Platforms:** Clearpath Jackal, Clearpath Husky, Unitree Go2, TurtleBot Burger, Smart Wheelchairs
-- **Libraries and Tools:** PyTorch, JAX, CVXPY, YALMIP, Clarabel, SCS, Git
